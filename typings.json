@@ -2,7 +2,8 @@
   "dependencies": {
     "bluebird": "registry:npm/bluebird#3.4.1+20160909132857",
     "express": "registry:npm/express#4.14.0+20160925001530",
-    "lodash": "registry:npm/lodash#4.0.0+20160723033700"
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700",
+    "mongodb": "registry:npm/mongodb#2.1.0+20160721204323"
   },
   "globalDependencies": {
     "consolidate": "registry:dt/consolidate#0.0.0+20160811111312",
