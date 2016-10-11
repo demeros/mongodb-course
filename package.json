@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-course",
+  "version": "1.0.0",
+  "description": "Test project for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demeros/mongodb-course.git"
+  },
+  "author": "Nazar Sakharenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demeros/mongodb-course/issues"
+  },
+  "homepage": "https://github.com/demeros/mongodb-course#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0",
+    "lodash": "^4.16.4",
+    "mongodb": "^2.2.10",
+    "nunjucks": "^2.5.2"
+  }
+}
