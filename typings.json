@@ -7,6 +7,7 @@
   },
   "globalDependencies": {
     "consolidate": "registry:dt/consolidate#0.0.0+20160811111312",
+    "nconf": "registry:dt/nconf#0.0.0+20160724073144",
     "node": "registry:dt/node#6.0.0+20161010101523",
     "nunjucks": "registry:dt/nunjucks#0.0.0+20160802155009"
   }
